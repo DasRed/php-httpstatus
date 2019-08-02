@@ -1,0 +1,11 @@
+{
+    "name": "dasred/httpstatus",
+    "autoload": {
+        "psr-4": {
+            "DasRed\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3"
+    }
+}
