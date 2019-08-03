@@ -1,5 +1,13 @@
 {
     "name": "dasred/httpstatus",
+    "homepage": "https://github.com/DasRed/php-httpstatus",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Marco Starker",
+            "email": "marco.starker@gmx.net"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "DasRed\\": "src/"
